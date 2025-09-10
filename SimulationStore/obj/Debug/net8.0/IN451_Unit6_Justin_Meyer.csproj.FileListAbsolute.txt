@@ -1,0 +1,14 @@
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\bin\Debug\net8.0\IN451_Unit6_Justin_Meyer.exe
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\bin\Debug\net8.0\IN451_Unit6_Justin_Meyer.deps.json
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\bin\Debug\net8.0\IN451_Unit6_Justin_Meyer.runtimeconfig.json
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\bin\Debug\net8.0\IN451_Unit6_Justin_Meyer.dll
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\bin\Debug\net8.0\IN451_Unit6_Justin_Meyer.pdb
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\obj\Debug\net8.0\IN451_Unit6_Justin_Meyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\obj\Debug\net8.0\IN451_Unit6_Justin_Meyer.AssemblyInfoInputs.cache
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\obj\Debug\net8.0\IN451_Unit6_Justin_Meyer.AssemblyInfo.cs
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\obj\Debug\net8.0\IN451_Unit6_Justin_Meyer.csproj.CoreCompileInputs.cache
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\obj\Debug\net8.0\IN451_Unit6_Justin_Meyer.dll
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\obj\Debug\net8.0\refint\IN451_Unit6_Justin_Meyer.dll
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\obj\Debug\net8.0\IN451_Unit6_Justin_Meyer.pdb
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\obj\Debug\net8.0\IN451_Unit6_Justin_Meyer.genruntimeconfig.cache
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\obj\Debug\net8.0\ref\IN451_Unit6_Justin_Meyer.dll

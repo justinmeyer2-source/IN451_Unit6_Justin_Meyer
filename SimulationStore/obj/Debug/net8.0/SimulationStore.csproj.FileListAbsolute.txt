@@ -1,0 +1,14 @@
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\obj\Debug\net8.0\SimulationStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\obj\Debug\net8.0\SimulationStore.AssemblyInfoInputs.cache
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\obj\Debug\net8.0\SimulationStore.AssemblyInfo.cs
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\obj\Debug\net8.0\SimulationStore.csproj.CoreCompileInputs.cache
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\bin\Debug\net8.0\SimulationStore.exe
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\bin\Debug\net8.0\SimulationStore.deps.json
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\bin\Debug\net8.0\SimulationStore.runtimeconfig.json
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\bin\Debug\net8.0\SimulationStore.dll
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\bin\Debug\net8.0\SimulationStore.pdb
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\obj\Debug\net8.0\SimulationStore.dll
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\obj\Debug\net8.0\refint\SimulationStore.dll
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\obj\Debug\net8.0\SimulationStore.pdb
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\obj\Debug\net8.0\SimulationStore.genruntimeconfig.cache
+C:\Users\jmeyer2\Downloads\ClothingStoreSimulation\ClothingStoreSimulation\SimulationStore\obj\Debug\net8.0\ref\SimulationStore.dll

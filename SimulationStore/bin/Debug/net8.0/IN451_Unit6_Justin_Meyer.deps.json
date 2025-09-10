@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IN451_Unit6_Justin_Meyer/1.0.0": {
+        "runtime": {
+          "IN451_Unit6_Justin_Meyer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IN451_Unit6_Justin_Meyer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
